@@ -95,6 +95,9 @@ button a{
     left: 20rem;
     bottom: 32rem;
 }
+.skills{
+    padding-bottom: 3rem;
+}
 .skill-row{
     width: 50%;
     margin: 10rem auto;
