@@ -8,7 +8,6 @@ body{
     box-sizing: border-box;
     font-family: 'Merriweather', serif;
     background-color: #F0EFE2;
-
 }
 html{
     font-size: 62.5%;
@@ -71,6 +70,9 @@ button a{
     text-decoration: none;
     color: #eaf6f6;
     font-weight: 600;
+}
+.dummy{
+    display: none;
 }
 .top-container h2{
     font-weight: normal;
